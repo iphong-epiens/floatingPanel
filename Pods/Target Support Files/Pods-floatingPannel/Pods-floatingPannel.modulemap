@@ -1,0 +1,6 @@
+framework module Pods_floatingPannel {
+  umbrella header "Pods-floatingPannel-umbrella.h"
+
+  export *
+  module * { export * }
+}
