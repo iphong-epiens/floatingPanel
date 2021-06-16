@@ -6,11 +6,13 @@ PODS:
   - RxRelay (6.2.0):
     - RxSwift (= 6.2.0)
   - RxSwift (6.2.0)
+  - VersaPlayer (3.0.2)
 
 DEPENDENCIES:
   - FloatingPanel
   - RxCocoa
   - RxSwift
+  - VersaPlayer
 
 SPEC REPOS:
   trunk:
@@ -18,13 +20,15 @@ SPEC REPOS:
     - RxCocoa
     - RxRelay
     - RxSwift
+    - VersaPlayer
 
 SPEC CHECKSUMS:
   FloatingPanel: fa60183672ed86313b9e241e34465e82211260e8
   RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
   RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
   RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  VersaPlayer: 0e9a0ea7da786729ffb377dbd17b34641a8265e4
 
-PODFILE CHECKSUM: 6f1e01e8913e32e2028329d6f7b92ffb782b4e07
+PODFILE CHECKSUM: f87d7a4eea24358f5696d867d24fef01b2632028
 
 COCOAPODS: 1.10.0

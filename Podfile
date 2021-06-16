@@ -9,5 +9,6 @@ target 'floatingPannel' do
   pod 'RxSwift'
   pod 'RxCocoa'
   pod 'FloatingPanel'
+  pod 'VersaPlayer'
 
 end
